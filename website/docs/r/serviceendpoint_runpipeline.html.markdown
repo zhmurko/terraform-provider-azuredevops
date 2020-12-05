@@ -1,8 +1,8 @@
 ---
 layout: "azuredevops"
-page_title: "AzureDevops RunPipelines: azuredevops_serviceendpoint_runpipeline"
+page_title: "Azure Devops: azuredevops_serviceendpoint_runpipeline"
 description: |-
-  Manages a Azure DevOps Service Connection service endpoint within Azure DevOps project.
+  Manages a Azure DevOps plugin RunPipeline.
 ---
 
 # azuredevops_serviceendpoint_runpipeline
